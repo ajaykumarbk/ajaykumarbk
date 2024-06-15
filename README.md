@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajaykumarbk
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on Python development
+- 👀 I’m interested Full Stack Web development
+- 🌱 I’m currently HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me <a>ajaykumarbk34@gmail.com</a>
 
 
